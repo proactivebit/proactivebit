@@ -1,5 +1,5 @@
-<!-- ### Hi there, I'm Dawid Kurek - software developer from Poland
- -->
+### Hi there, I'm Dawid Kurek - software developer from Poland
+
 - Mostly **React** and **React Native**.
 - I have my own [software developer blog][website] where I share my problems that I encounter during my daily work.
 - You can contact me by e-mail ✉️ proactivebit@gmail.com
