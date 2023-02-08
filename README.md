@@ -11,6 +11,7 @@
 ### 💡 **Latest articles**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google and Apple authentication in expo with firebase ](https://proactivebit.com/blog/googleAndAppleAuthInExpo-post/)
 - [React design patterns](https://proactivebit.com/blog/reactDesignPatterns-post/)
 - [AI Generated mobile app UI](https://proactivebit.com/blog/aiGeneratedMobileApp-post/)
 <!-- BLOG-POST-LIST:END -->
